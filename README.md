@@ -14,7 +14,7 @@ Proposed Solution:
 We have chosen the data from 2010-2019 and then divided the data set in two part training & testing. According to the code, training part to be 70% & testing part to be 30% and therefore our final prediction will be on testing part only and plot simple graph which will be showing the predicted values and the actual values.
 By this we can have simple description of the predicted values between 2010-2019.
 
-Preview :
+
 <img width="704" height="350" alt="visualization" src="https://github.com/user-attachments/assets/9ee8a752-fb51-46a4-9bc5-2cd99178ee75" />
 
 
