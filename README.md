@@ -1,11 +1,11 @@
 
  📈 Stock Market Prediction Web Application (2010–2019)
 
-*A Streamlit-based Machine Learning Project for Predicting Stock Prices*
+A Streamlit-based Machine Learning Project for Predicting Stock Prices
 
 ---
 
-📌 *Problem Statement*
+📌 Problem Statement
 
 Predicting the stock market has always been a challenging yet fascinating task for data scientists. The motivation is not only potential profit but the intellectual challenge of uncovering hidden patterns in market behavior.
 
@@ -115,7 +115,7 @@ This approach provides a clear understanding of how the model performs in predic
 
 This demonstrates that machine learning can be a useful tool for **long-term trend analysis**, but not for daily trading.
 
-
+___
 
  **Conclusion**
 
