@@ -1,5 +1,3 @@
-Here is a **fully reorganized, professional, and polished README.md** for your GitHub project.
-You can copy–paste this directly into your repository.
 
  📈 Stock Market Prediction Web Application (2010–2019)
 
@@ -21,25 +19,25 @@ Like many others, I explored the use of **additive models and machine learning t
 
 This project is built on four major analytical foundations:
 
-🔍 **1. Fundamental Analysis**
+🔍 1. Fundamental Analysis
 
 Evaluating a company’s financial health, stability, and intrinsic value.
 
- 📊 **2. Technical Analysis**
+ 📊 2. Technical Analysis
 
 Identifying market patterns using historical price data, trends, and indicators.
 
-💬 **3. Sentiment Analysis**
+💬 3. Sentiment Analysis
 
 Observing public sentiment using social media and news to anticipate market moves.
 
-🤖 **4. Machine Learning Approaches**
+🤖 4. Machine Learning Approaches
 
 Training ML models to learn from historical data to predict future stock prices.
 
 ---
 
-📝 **Abstract**
+📝 Abstract
 
 Stock market prediction plays a crucial role in financial decision-making. Daily price fluctuations influence personal investments, savings, and long-term wealth. Being able to anticipate future movements helps investors:
 
