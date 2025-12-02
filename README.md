@@ -4,6 +4,13 @@ Naturally, when I started using additive models for time series prediction, I ha
 However, in the process, I learned a ton of Python including object-oriented
 'programming, data manipulation, modeling, and visualization. I also found out why we should avoid playing the daily stock market without losing a single dollar (all I can say is play the long game)!
 
+The code is based on the following concepts:
+1. Fundamental analysis: This is a method of stock valuation that looks at the underlying factors that affect a company's financial performance.
+2. Technical analysis: This is a method of stock valuation that looks at past price data and trading patterns to identify future trends.
+3. Sentiment analysis: This is a method of stock valuation that looks at social media data to identify positive or negative sentiment about a company-
+4. Machine learning: This is a method of stock predictions that uses algorithms to learn from historical data and make predictions about future prices.
+
+   
 Abstract: 
 There are a number of reasons why stock market prediction is important in our daily life.
 Perhaps the most important reason is that stock prices can have a significant impact on our personal finances. If we own shares of stock, their value can go up or down, and this can have a direct impact on our wealth. If we are thinking about investing in shares, it is important to try to predict where the market is heading so that we can make the most profitable investment choices.
